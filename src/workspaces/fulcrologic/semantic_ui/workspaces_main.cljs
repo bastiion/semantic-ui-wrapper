@@ -4,7 +4,8 @@
             [fulcrologic.semantic-ui.workspaces.dropdown]
             [fulcrologic.semantic-ui.workspaces.form]
             [fulcrologic.semantic-ui.workspaces.icon]
-            [fulcrologic.semantic-ui.workspaces.input]))
+            [fulcrologic.semantic-ui.workspaces.input]
+            [fulcrologic.semantic-ui.workspaces.x]))
 
 (defonce init (ws/mount))
 
